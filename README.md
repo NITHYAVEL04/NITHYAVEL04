@@ -1,6 +1,6 @@
 # 💫 About Me:
-I am Computerscience graduate. I am passionate about web development using Java, python,sql.
-Software Developer | Python, Java, SQL | Passionate about AI & Web Development| Deloitte Data Analytics & AWS Solutions Architecture Job Simulation Participant with Forage
+I am Computerscience graduate. I am passionate about web development using Java, sql.
+Software Developer | Java, AWS Devops | Passionate about AI & Web Development |
 
 
 # 💻 Tech Stack:
