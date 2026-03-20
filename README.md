@@ -1,6 +1,7 @@
 # 💫 About Me:
 I am Computerscience graduate. I am passionate about web development using Java, sql.
-Software Developer | Java, AWS Devops | Passionate about AI & Web Development |
+
+| Software Developer | Java, AWS Devops | Passionate about AI & Web Development |
 
 
 # 💻 Tech Stack:
