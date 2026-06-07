@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a B.Tech Graduate (Computer Science and Business Systems). <br> .Responsible and resilient IT professional with 1 year of experience as an Assistant System Engineer -Trainee  at TCS, specializing in system<br>administration, cloud fundamentals and backend systems in a large-scale environment.<br>• Passionate about building and automating cloud infrastructure on AWS. Eager to transition into an AWS Cloud / DevOps role,<br>bringing building automation, troubleshooting and cloud-hosting skills.
+I am a B.Tech Graduate (Computer Science and Business Systems). <br> .Responsible and resilient IT professional with 1 year of experience as an Assistant System Engineer -Trainee  at TCS, specializing in system<br>administration, cloud fundamentals and backend systems in a large-scale environment.<br> Passionate about building and automating cloud infrastructure on AWS. Eager to transition into an AWS Cloud / DevOps role,<br>bringing building automation, troubleshooting and cloud-hosting skills.
 
 
 ## 🌐 Socials:
